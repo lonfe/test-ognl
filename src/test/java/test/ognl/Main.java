@@ -165,4 +165,9 @@ public class Main {
             e.printStackTrace();
         }
     }
+    
+    @Test
+    public void test7() {
+        System.out.println("...test7...");
+    }
 }
