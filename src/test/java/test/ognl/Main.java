@@ -180,4 +180,9 @@ public class Main {
     public void test9() {
         System.out.println("...test9...");
     }
+
+    @Test
+    public void test10() {
+        System.out.println("...test10...");
+    }
 }
